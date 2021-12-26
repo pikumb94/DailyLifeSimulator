@@ -23,8 +23,8 @@ AI guys can perform various activities for a certain period:
 * Playing on console: 1, 2 or 3 AI guys find a console and start playing it.
 
 * Conversation: between two or more AI guys (Bubble icons appear above their heads)
-* Standing Talk: AI guys find a random place to stand next to each other and start talking.
-* Sitting Talk: AI guys find a random empty seat at the table or sofa and sit there to chat.
+    * Standing: AI guys find a random place to stand next to each other and start talking.
+    * Sitting: AI guys find a random empty seat at the table or sofa and sit there to chat.
 * Smoking and talking: 2 or more AI guys find a common place where they smoke and talk.
 * Ping pong: 2 AI guys finds a shared ping pong table, they go to it and then start the ping pong animation.
 
