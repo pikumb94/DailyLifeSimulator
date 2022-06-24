@@ -5,8 +5,7 @@ They walk around the level doing random activities for about 4 minutes per Day a
 
 The map level has walls and consists of several rooms. They move around avoiding obstacles, but they can walk through each other.
 
-The aim of this project is to make a NPC daily routine using only Unreal Engine's Blueprints and Behaviour Trees.
-Everything has been done using Unreal Engine 4.27.X version.
+The aim of this project is to practice with Unreal Engine's Blueprints, Behaviour Trees and Environment Query System.
 
 </br>
 <p align="center">
@@ -34,3 +33,7 @@ There are three kinds of people.
 * Yellow guys: has no preference of activities.
 * Red guys: are much more likely to doing lone activities (and they do for a longer period of time).
 * Blue guys: are much more likely to doing lone activities (and they do for a longer period of time).
+
+### Disclaimer
+Everything has been done using Unreal Engine 4.27.2 version.
+The project is an __early__ prototype and needs code refactoring and cleaning.
